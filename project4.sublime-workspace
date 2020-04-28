@@ -1,0 +1,642 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flx-",
+				"flex-shrink\tproperty"
+			],
+			[
+				"flex",
+				"flex-shrink\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"word",
+				"word-wrap\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"bor-",
+				"border-radius\tproperty"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"max-",
+				"max-height\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"border-bor",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"t",
+				"transition\tproperty"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"slid",
+				"slideUp〔function〕"
+			],
+			[
+				"pay",
+				"pay_method.html"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"modal",
+				"modal_link"
+			],
+			[
+				"insta",
+				"insta"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"parse",
+				"parse_url〔function〕"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"margn",
+				"margin-bottom\tproperty"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"sli",
+				"slideDown〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"relo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"reloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/vers4",
+		"/C/xampp/htdocs/vers4/css",
+		"/C/xampp/htdocs/vers4/js"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/vers4/css/styles.css",
+		"/C/xampp/htdocs/vers4/index.php",
+		"/C/xampp/htdocs/vers4/product.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/archive-stm_productions.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/taxonomy-products-category.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/taxonomy-products_category.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/response_479 2.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-commerce.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-services.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles 2.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 2.php",
+		"/C/xampp/htdocs/vers4/article.html",
+		"/C/xampp/htdocs/vers4/js/scripts.js",
+		"/C/xampp/htdocs/vers4/category.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/wp-cache-config.php",
+		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (8)/after_title.svg",
+		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (8)/left-img1.svg",
+		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (8)/bg_first.svg",
+		"/C/xampp/htdocs/vers4/css/owl.carousel.css",
+		"/C/xampp/htdocs/vers4/index.html",
+		"/C/xampp/htdocs/vers4/css/response_1185.css",
+		"/C/xampp/htdocs/vers4/css/response_1023.css",
+		"/C/xampp/htdocs/vers4/css/response_767.css",
+		"/C/xampp/htdocs/vers4/css/response_479.css",
+		"/C/xampp/htdocs/vers2/category.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/xampp/htdocs/vers/index.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/widget 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/header 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/category.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/comments.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/footer 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/header.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/widget.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/index.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/functions 3.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/scripts 3.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/subscribe 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page-feed.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page-map 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/posts_block.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/related_posts.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/related_posts_option.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/search.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/sidebar 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/single 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/block_search.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/404.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/wp-config 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/.htaccess",
+		"/C/Users/RaTeN/OneDrive/Desktop/1.html",
+		"/C/xampp/htdocs/vers4/index3.html",
+		"/C/xampp/htdocs/vers4/index2.html",
+		"/C/xampp/htdocs/vers4/index4.html",
+		"/C/xampp/htdocs/vers4/index5.html",
+		"/C/xampp/htdocs/vers4/news.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/scripts 2.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/functions 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/subscribe.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/style 3.css",
+		"/C/xampp/htdocs/vers4/contacts.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/sidebar.php",
+		"/C/xampp/htdocs/vers4/images/ic_socials.svg",
+		"/C/xampp/htdocs/vers4/images/ic_email.svg",
+		"/C/xampp/htdocs/vers4/images/ic_messengers.svg",
+		"/C/xampp/htdocs/vers4/images/ic_adres.svg",
+		"/C/xampp/htdocs/vers4/images/ic_phone.svg",
+		"/C/xampp/htdocs/vers4/checkout.html",
+		"/C/xampp/htdocs/vers4/cart.html",
+		"/C/xampp/htdocs/vers4/css/ion.rangeSlider.css",
+		"/C/Users/RaTeN/Downloads/Shape (8).svg",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/single.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/functions.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/functions.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/footer.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/main.php",
+		"/C/Users/RaTeN/Downloads/Group 45.svg",
+		"/C/Users/RaTeN/Downloads/keyboard_arrow_right-24px.svg",
+		"/C/xampp/htdocs/vers4/images/rating.svg",
+		"/C/Users/RaTeN/Downloads/icons8-left (1).svg",
+		"/C/Users/RaTeN/Downloads/Path (1).svg",
+		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (8)/Group 8 (1).svg",
+		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (8)/left-img.svg",
+		"/C/xampp/htdocs/vers4/images/left-img1.svg",
+		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (8)/mask3.svg",
+		"/C/xampp/htdocs/vers4/images/arrow.svg",
+		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (4)/Новая папка/demo.html",
+		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (4)/Новая папка/stylesheet.css",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/vers/category.html",
+		"/C/xampp/htdocs/vers/css/response_767.css",
+		"/C/xampp/htdocs/vers/css/styles.css",
+		"/C/xampp/htdocs/vers/js/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/style 2.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/divination 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/divination.php",
+		"/C/xampp/htdocs/vers/css/response_1185.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page-map.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page-d.php",
+		"/C/xampp/htdocs/vers/css/response_479.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/xampp/htdocs/calendar/wp-content/plugins/holy-calendar/js/scripts.js",
+		"/C/xampp/htdocs/calendar/wp-content/plugins/holy-calendar/css/style.css",
+		"/C/xampp/htdocs/calendar/wp-content/plugins/holy-calendar/divination.php",
+		"/C/xampp/htdocs/calendar/wp-content/plugins/holy-calendar/js/divination.php",
+		"/C/xampp/htdocs/calendar/wp-content/themes/raten/header.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/thanks.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/sendMessage.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style.css",
+		"/E/Универсальность/Борисов/Универсальный шаблон борисова!!!/raten/js/scripts.js",
+		"/E/Универсальность/Борисов/Универсальный шаблон борисова!!!/raten/js/scripts2.js",
+		"/E/Универсальность/Борисов/sendMessage.php",
+		"/E/Универсальность/Борисов/code.php",
+		"/E/Универсальность/Борисов/sendMessage2.php",
+		"/C/xampp/htdocs/vers/checkout.html",
+		"/C/xampp/htdocs/vers/css/response_1023.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/Rar$DRa11948.6877/js/scripts.js",
+		"/C/xampp/htdocs/vers/checkout_success.html",
+		"/C/xampp/htdocs/vers/index5.html",
+		"/C/xampp/htdocs/vers/cart.html",
+		"/C/Users/RaTeN/Downloads/Triangle.svg",
+		"/C/xampp/htdocs/vers2/index5.php",
+		"/C/xampp/htdocs/vers2/css/response_767.css",
+		"/C/xampp/htdocs/vers2/css/styles.css",
+		"/C/xampp/htdocs/vers2/index.html"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".form .submit_btn",
+			"white",
+			".news_category a:hover, .news_category a.active",
+			".ads_block .item",
+			".reviews .review .rating",
+			".owl-carousel .owl-nav button.owl-prev",
+			"#fe8939;",
+			"rgba(255, 138, 58, .754016);",
+			"box-shadow-color",
+			"main_color_opacity",
+			"linear-gradient(180deg, #ff954d 0%, #fb6600 100%)",
+			"#fb6600",
+			"#ff954d",
+			".main_slider3 .owl-carousel .owl-nav button.owl-prev",
+			"upload",
+			"upload ",
+			".block_head .desc",
+			"align-items",
+			".first_section .img > *",
+			"widget ",
+			".three_photo .photo .img2",
+			".documents .flex",
+			".video_reviews .slider",
+			".reviews .review .author",
+			".how_we_work .img",
+			".how_we_work .img > *",
+			".about .img",
+			"header .socials a.more",
+			"main_color2",
+			"main_color3",
+			"main_color1",
+			"header .menu .item:hover > a, header .menu .item > a.active",
+			".main_slider .owl-carousel .owl-nav button",
+			".main_slider .slide .desc",
+			".main_slider3 .owl-carousel .owl-nav button",
+			".main_slider3 .info .desc",
+			".main_slider3 .owl-carousel .owl-nav button",
+			".owl-carousel .owl-nav button",
+			".main_slider2 .img",
+			".main_slider2 .info .desc",
+			".first_section .info",
+			".first_section .info .desc, .first_section .info .link",
+			".first_section .info .desc",
+			".product_info .buy .btn",
+			".product_info .head",
+			".product_info .buy .back_link",
+			".news .flex > *",
+			".contacts_info .info .item",
+			".content .products .flex > *",
+			"aside .search .input",
+			".cart_info .cart_total .val",
+			"share",
+			"my_action",
+			".contacts_info .info .flex",
+			".contacts_info .info .icon",
+			".products .product",
+			".irs-line",
+			".text_block img",
+			".article_info .head .info",
+			".gallery .images .item",
+			".products .product",
+			"products",
+			"articles",
+			".three_photo .photo img",
+			".big .slider",
+			"function is_touch_device() {\n\treturn !!('ontouchstart' in window)\n}",
+			".big .slider",
+			"$caseSlider",
+			".image_tips .image .info .link",
+			"file-uploader",
+			".upload .file-uploader",
+			".upload .file-uploader ",
+			".upload .file-uploader * svg",
+			".services .service img",
+			".ads_block .item .thumb img",
+			".contacts_block .info",
+			".form .line",
+			"form_border_color",
+			".big_boss_quote .info .post",
+			".reviews .slider",
+			"margin_large",
+			".how_we_work .info",
+			".owl-carousel .owl-nav button.owl-next",
+			".link",
+			".about .info",
+			".block_head .title",
+			".first_section .info",
+			".first_section .info .title",
+			".first_section .cont:after",
+			"header .contacts a",
+			"mob_scroll",
+			"SFProDisplay"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"var(--main_color2);",
+			"var(--box-shadow-color);",
+			"linear-gradient(to bottom, var(--main_color2), var(--main_color3))",
+			"var(--main_color3)",
+			"var(--main_color2)",
+			"../fonts/SFProDisplay",
+			"..fonts/SFProDisplay"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 58.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "project4.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\vers\\project1.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
