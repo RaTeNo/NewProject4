@@ -6884,9 +6884,9 @@ button:disabled
     display: block;
 }
 
-.socials_block .socials a + a
+.socials_block .socials a
 {
-    margin-left: 20px;
+    margin: 0 10px 20px;
 }
 
 .socials_block .socials img

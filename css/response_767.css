@@ -927,7 +927,6 @@
     .soc_block .widget
     {
         margin: 50px auto 0;
-        width: auto;
         order: 3;
     }
 
