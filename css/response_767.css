@@ -539,6 +539,8 @@
     .first_section .img
     {
         margin: 35px auto 0;
+        height: 300px;
+        width: 100%;
     }
 
 
@@ -1266,4 +1268,21 @@
     /*---------------
         PopUp
     ---------------*/
+    .three_photo .photo .img2{
+        margin-left: 0;
+    }
+    .three_photo .photo .img3{
+        margin-left: 0;
+    }
+    .three_photo .photo{
+        padding-left: 150px;
+    }
+
+    .socials_block .socials img{
+        width: 44px;
+        height: 44px;
+    }
+    .socials_block .socials a {
+        margin: 0 5px 10px;
+    }
 }
