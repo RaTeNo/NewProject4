@@ -1747,7 +1747,7 @@ header .menu .flexMenu-popup .item > a.touch_link + .sub_menu.show
 
 .mob_header .logo .name
 {
-    color: var(--main_color1);
+    color: var(--main_color2);
     font-size: 5vw;
     font-weight: bold;
     line-height: 5vw;
@@ -2399,6 +2399,15 @@ aside > *:last-child
 .main_slider
 {
     background: #ddd;
+}
+.main_slider .owl-carousel .owl-stage {
+    display: flex;
+}
+
+.main_slider .slide {
+    display: flex;
+    flex: 1 0 auto;
+    height: 100%;
 }
 
 .main_slider .slide
@@ -4573,6 +4582,7 @@ color: #fff;
 .vacancies .item .link
 {
     margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .poll .widget img
@@ -6377,6 +6387,7 @@ button:disabled
     transform: scale(-1, 1);
 
     background: url(../images/left-img1.svg);
+    display: none;
 }
 
 .before_after .cont
@@ -6409,6 +6420,7 @@ button:disabled
 
     border-radius: 25px 186px ;
     background: #ddd;
+    overflow: hidden;
 }
 
 .before_after .item img
