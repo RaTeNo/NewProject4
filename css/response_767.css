@@ -1287,4 +1287,8 @@
     .socials_block .socials a {
         margin: 0 5px 10px;
     }
+
+    aside .filter > .cats + .block {
+        margin-top: 20px;
+    }
 }

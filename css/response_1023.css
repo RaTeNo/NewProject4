@@ -354,12 +354,16 @@
 
     aside .filter > *
     {
-        transform: translateZ(0);
+        
         pointer-events: auto;
 
         --webkit-column-break-inside: avoid;
         page-break-inside: avoid;
         break-inside: avoid;
+    }
+
+    aside .filter > .cats + .block {
+        margin-top: 0px;
     }
 
     aside .filter > * + *
