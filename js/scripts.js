@@ -13,7 +13,7 @@ $(function(){
 		smartSpeed: 750,
 		autoplay: true,
 		autoplayTimeout: 5000,
-		onInitialized: function(event){
+		/*onInitialized: function(event){
 			setTimeout(function(){
 				let arrW = $(event.target).find('.owl-nav button').width()
 				let dotsW = $(event.target).find('.owl-dots').width()
@@ -40,7 +40,7 @@ $(function(){
 					'margin-right', (dotsW / -2) - arrW - 10 + 150
 				)
 			}, 100)
-		}
+		}*/
 	})
 
 

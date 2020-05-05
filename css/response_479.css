@@ -390,7 +390,6 @@
     }
 
     .main_slider .slide .title {
-        line-height: 26px;
         white-space: normal;
     }
 
@@ -416,6 +415,7 @@
         width: calc(100% - 30px);
         margin: 0px 10px 0;
         padding: 20px;
+        height: 300px;
     }
 
     .main_slider .slide .info{
@@ -503,6 +503,8 @@
     .documents .flex > *
     {
         width: calc(50% - 20px);
+                margin-left: 10px;
+        margin-right: 10px;
     }
 
     
@@ -944,8 +946,8 @@
         flex: 0 0 100%;
     }
 
-    .main_slider  .owl-carousel .owl-nav button.owl-next{
-            margin-right: -122px !important;
+    .main_slider .owl-nav{
+           bottom: 20px;
     }
 
      .main_slider2.owl-carousel .owl-nav button.owl-prev{

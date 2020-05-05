@@ -88,7 +88,9 @@
         margin-bottom: 30px;
         padding: 15px 0 0;
     }
-
+    .mob_header + .main_slider,  .mob_header + .main_slider2,  .mob_header + .main_slider3{
+        margin-top:-30px;
+    }
 
     .mob_header .cont
     {

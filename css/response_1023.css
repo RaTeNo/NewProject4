@@ -668,6 +668,7 @@
         padding: 0 30px;
 
         white-space: nowrap;
+        padding-bottom: 50px;
     }
 
     .products .flex.mob_slider > *

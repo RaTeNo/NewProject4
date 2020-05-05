@@ -2100,6 +2100,10 @@
 
 
 							<a href="/" class="product">
+								<div class="stickers">
+									<div><div class="sticker recommend">акция</div></div>
+								</div>
+
 								<div class="img"><img data-src="images/tmp/product_thumb10.jpg" alt="" class="lozad"></div>
 								<div class="info">
 									<div class="name">Отличный товар</div>
@@ -2112,6 +2116,11 @@
 
 
 							<a href="/" class="product">
+
+								<div class="stickers">
+									<div><div class="sticker hit">акция</div></div>
+								</div>
+								
 								<div class="img"><img data-src="images/tmp/product_thumb10.jpg" alt="" class="lozad"></div>
 
 								<div class="info">
