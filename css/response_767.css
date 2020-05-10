@@ -1241,13 +1241,31 @@
         text-align: left;
     }
     
+   
+    .products_sort ul{
+        display: flex;
+        flex-wrap: wrap;
+    }   
+    
     .products_sort b{
         display: block;
     }
     .sorting_switcher li{
-        margin-top: 20px;
+        margin-top: 10px;
         display: block;
     }
+
+    .products_sort_mobile{
+        display: block;
+    }
+
+    .sorting_switcher li {
+        padding: 0 9px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+
+
 
     .upload .form:after{
         display: none;
@@ -1259,13 +1277,6 @@
         flex: 0 0 50%;
     }
 
-    .products_sort_mobile {
-        display: block;
-    }
-
-    .products_sort {
-        display: none;
-    }
 
     /*---------------
         PopUp
@@ -1291,4 +1302,38 @@
     aside .filter > .cats + .block {
         margin-top: 20px;
     }
+
+
+    
+    .cart_empty{
+        padding: 0px;
+    }
+
+    .cart_empty .title {
+        font-size: 25px;
+        line-height: 31px;
+    }
+
+    .cart_empty .desc {
+        font-size: 21px;
+        line-height: 29px;
+    }
+
+    .cart_empty .link {
+        margin-top: 25px;
+    }
+
+    .cart_empty .link {
+        font-size: 13px;
+        width: 150px;
+        height: 45px;
+        line-height: 45px;
+    }
+
+    .cart_empty .icon {
+        width: 95px;
+        height: 95px;
+    }
+
+
 }
