@@ -47,11 +47,11 @@
 			<?php 
 				$main_color2 ="#4d6dff";
     			$main_color3 ="#142e52";
-				$svg1 = '<svg width="846" height="575" viewBox="0 0 846 575" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 47C0 21.0426 21.0426 0 47 0L792.958 0C818.706 0 839.661 20.7165 839.955 46.4625L845.456 527.462C845.756 553.628 824.627 575 798.459 575H47C21.0426 575 0 553.957 0 528V47Z" fill="url(#paint0_linear)"/><mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="846" height="575"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 47C0 21.0426 21.0426 0 47 0L792.958 0C818.706 0 839.661 20.7165 839.955 46.4625L845.456 527.462C845.756 553.628 824.627 575 798.459 575H47C21.0426 575 0 553.957 0 528V47Z" fill="white"/></mask><g mask="url(#mask0)"><path opacity="0.0651042" d="M456 428C456 585.953 327.953 714 170 714C12.0466 714 -116 585.953 -116 428C-116 270.047 12.0466 142 170 142C327.953 142 456 270.047 456 428Z" stroke="white" stroke-width="92"/><path opacity="0.13365" d="M356 428C356 530.725 272.725 614 170 614C67.275 614 -16 530.725 -16 428C-16 325.275 67.275 242 170 242C272.725 242 356 325.275 356 428Z" stroke="white" stroke-width="72"/></g><defs><linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="575" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color2.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient></defs></svg>';
+				$svg1 = '<svg width="846" height="575" viewBox="0 0 846 575" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 47C0 21.0426 21.0426 0 47 0L792.958 0C818.706 0 839.661 20.7165 839.955 46.4625L845.456 527.462C845.756 553.628 824.627 575 798.459 575H47C21.0426 575 0 553.957 0 528V47Z" fill="url(#paint0_linear)"/><mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="846" height="575"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 47C0 21.0426 21.0426 0 47 0L792.958 0C818.706 0 839.661 20.7165 839.955 46.4625L845.456 527.462C845.756 553.628 824.627 575 798.459 575H47C21.0426 575 0 553.957 0 528V47Z" fill="white"/></mask><g mask="url(#mask0)"><path opacity="0.0651042" d="M456 428C456 585.953 327.953 714 170 714C12.0466 714 -116 585.953 -116 428C-116 270.047 12.0466 142 170 142C327.953 142 456 270.047 456 428Z" stroke="white" stroke-width="92"/><path opacity="0.13365" d="M356 428C356 530.725 272.725 614 170 614C67.275 614 -16 530.725 -16 428C-16 325.275 67.275 242 170 242C272.725 242 356 325.275 356 428Z" stroke="white" stroke-width="72"/></g><defs><linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="575" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color3.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient></defs></svg>';
 
-				$svg2 = '<svg width="69" height="9" viewBox="0 0 69 9" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="29" height="9" rx="4.5" fill="url(#paint0_linear)"/><rect x="36" width="17" height="9" rx="4.5" fill="url(#paint1_linear)"/><rect x="60" width="9" height="9" rx="4.5" fill="url(#paint2_linear)"/><defs><linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="9" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color2.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient><linearGradient id="paint1_linear" x1="36" y1="0" x2="36" y2="9" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color2.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient><linearGradient id="paint2_linear" x1="60" y1="0" x2="60" y2="9" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color2.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient></defs></svg>';
+				$svg2 = '<svg width="69" height="9" viewBox="0 0 69 9" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="29" height="9" rx="4.5" fill="url(#paint0_linear)"/><rect x="36" width="17" height="9" rx="4.5" fill="url(#paint1_linear)"/><rect x="60" width="9" height="9" rx="4.5" fill="url(#paint2_linear)"/><defs><linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="9" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color3.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient><linearGradient id="paint1_linear" x1="36" y1="0" x2="36" y2="9" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color3.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient><linearGradient id="paint2_linear" x1="60" y1="0" x2="60" y2="9" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color3.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient></defs></svg>';
 
-				$svg3 ='<svg width="723" height="1111" viewBox="0 0 723 1111" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 286.846C0 246.188 19.7742 208.07 53.013 184.656L212.395 72.3803C269.051 32.4697 347.362 46.2692 386.963 103.142L652.511 484.501C691.393 540.341 678.47 617.024 623.434 657.036L198.504 965.961C115.88 1026.03 0 967.007 0 864.856L0 286.846Z" fill="url(#paint0_linear)"/><path opacity="0.13365" d="M269.5 555C269.5 615.475 220.475 664.5 160 664.5C99.5248 664.5 50.5 615.475 50.5 555C50.5 494.525 99.5248 445.5 160 445.5C220.475 445.5 269.5 494.525 269.5 555Z" stroke="white" stroke-width="51"/><defs><linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="1110.27" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color2.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient></defs></svg>'
+				$svg3 ='<svg width="723" height="1111" viewBox="0 0 723 1111" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 286.846C0 246.188 19.7742 208.07 53.013 184.656L212.395 72.3803C269.051 32.4697 347.362 46.2692 386.963 103.142L652.511 484.501C691.393 540.341 678.47 617.024 623.434 657.036L198.504 965.961C115.88 1026.03 0 967.007 0 864.856L0 286.846Z" fill="url(#paint0_linear)"/><path opacity="0.13365" d="M269.5 555C269.5 615.475 220.475 664.5 160 664.5C99.5248 664.5 50.5 615.475 50.5 555C50.5 494.525 99.5248 445.5 160 445.5C220.475 445.5 269.5 494.525 269.5 555Z" stroke="white" stroke-width="51"/><defs><linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="1110.27" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color3.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient></defs></svg>'
 
 			?>
 			/*.first_section .info:after{
@@ -1316,29 +1316,29 @@
 				</section>
 
 
-				<section class="ads_block block">
+				<!-- <section class="ads_block block">
 					<div class="cont">
-
+				
 						<div class="block_head">
 							<div class="title">Блок c <span>Рекламой</span></div>
-
+				
 							<div class="desc">Выгодное расположение в непосредственной близости от жилых домов Широкий товарный ассортимент, <b>удовлетворяющий любым требованиям покупателей.</b></div>
 						</div>
-
-
+				
+				
 						<div class="flex">
 							<div class="item big">
 								<a href="/" class="thumb">
 									<img data-src="images/tmp/about_img.jpg" alt="" class="lozad">
 								</a>
-
+				
 								<div class="info">
 									<div class="name">
 										<a href="/">x5 Retail Group</a>
 									</div>
-
+				
 									<div class="desc">Магазины «у дома»​ для покупки товаров повседневного спроса. Выгодное расположение в непосредственной близости от жилых домов</div>
-
+				
 									<a href="/" class="link">Подробнее 
 										<svg width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg">
 											<path d="M9.34498 0C9.56236 0 9.77998 0.0821376 9.94564 0.24365L14.7509 4.91658C15.083 5.2396 15.083 5.76261 14.7509 6.08481L9.94564 10.7577C9.61347 11.0808 9.07565 11.0808 8.74433 10.7577L8.67132 10.6867C8.33915 10.3637 8.33915 9.8407 8.67132 9.5185L11.9533 6.32684H0.849544C0.380595 6.32684 0 5.95673 0 5.50069C0 5.04465 0.380595 4.67454 0.849544 4.67454H11.9533L8.67132 1.48288C8.33915 1.15985 8.33915 0.636847 8.67132 0.314648L8.74433 0.24365C8.91042 0.0821376 9.12761 0 9.34498 0Z" fill="white"/>
@@ -1346,40 +1346,40 @@
 									</a>
 								</div>
 							</div>
-
-
+				
+				
 							<div class="item">
 								<a href="/" class="thumb">
 									<img data-src="images/tmp/about_img.jpg" alt="" class="lozad">
 								</a>
-
+				
 								<div class="info">
 									<div class="name">
 										<a href="/">x5 Retail Group</a>
 									</div>
-
+				
 									<div class="desc">Магазины «у дома»​ для покупки товаров повседневного спроса. Выгодное расположение в непосредственной близости от жилых домов</div>
 								</div>
 							</div>
-
-
+				
+				
 							<div class="item full">
 								<a href="/" class="thumb">
 									<img data-src="images/tmp/ads_thumb3.jpg" alt="" class="lozad">
 								</a>
-
+				
 								<div class="info">
 									<div class="name">
 										<a href="/">x5 Retail Group</a>
 									</div>
-
+				
 									<div class="desc">Магазины «у дома»​ для покупки товаров повседневного спроса. Выгодное расположение в непосредственной близости от жилых домов</div>
 								</div>
 							</div>
 						</div>
-
+				
 					</div>
-				</section>
+				</section> -->
 
 
 				<section class="vacancies block">

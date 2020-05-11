@@ -167,8 +167,8 @@ button[type=reset]
     --box-shadow-color: rgba(255, 44, 44, .54);
     --main_color1: #fff;
 
-    --main_color2: #FF954D;
-    --main_color3: #FB6600;
+    --main_color2: #4D47EC;
+    --main_color3: #EC4747;
 
     --main_color_opacity: #e9f7ff;
 }
@@ -358,7 +358,7 @@ body.lock
 
 .block_head .title
 {
-    color: #343537;
+    color: var(--main_color3);
     font-size: var(--font_size_title);
     font-weight: 700;
     line-height: 60px;
@@ -421,7 +421,6 @@ body.lock
 
     border-radius: 25px;
     background: var(--main_color1);
-    box-shadow: 0 9px 23px var(--box-shadow-color);
 }
 
 .block .link
@@ -442,8 +441,8 @@ body.lock
     letter-spacing: .25px;
 
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
+    
 }
 .block .link svg
 {
@@ -470,8 +469,8 @@ body.lock
     letter-spacing: .25px;
 
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
+    
 }
 .block_head .all_link  svg
 {
@@ -712,7 +711,7 @@ body.lock
 }
 .form input[type=checkbox]:checked + label i svg *
 {
-    fill: var(--main_color2);
+    fill: var(--main_color3);
 }
 .form input[type=file] + label
 {
@@ -738,8 +737,8 @@ body.lock
 
     border: none;
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
+    
 }
 
 .form .file .list
@@ -862,8 +861,8 @@ body.lock
 
     border: none;
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
+    
 
     border: 2px solid #fff;
 }
@@ -1062,7 +1061,7 @@ body.lock
 
     border: none;
     border-radius: 50%;
-    background: url(../images/ic_buttonUp.png) 50% calc(50% - 1px)/30px 30px no-repeat,  linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: url(../images/ic_buttonUp.png) 50% calc(50% - 1px)/30px 30px no-repeat,  var(--main_color2);
 }
 
 .overlay
@@ -1185,7 +1184,7 @@ header .mob_scroll
     margin: 0 auto;
 
     border-radius: 0 0 42px 42px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
     box-shadow: inset 0 -55px 0 rgba(0, 0, 0, .102819);
 }
 header .info
@@ -1493,7 +1492,7 @@ header .menu .item > a span:after
 header .menu .item:hover > a,
 header .menu .item > a.active
 {
-    background: var(--main_color2);
+    background: var(--main_color3);
 }
 
 header .menu .sub_menu,
@@ -1792,7 +1791,7 @@ header .menu .flexMenu-popup .item > a.touch_link + .sub_menu.show
     padding: 8px;
 
     border-radius: 50%;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
 
     justify-content: center;
     align-items: center;
@@ -1900,7 +1899,7 @@ header .menu .flexMenu-popup .item > a.touch_link + .sub_menu.show
     padding: 15px;
     cursor: pointer;
     border: none;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
     border-radius: 11.5px;
     justify-content: center;
     align-items: center;
@@ -1948,7 +1947,7 @@ aside .block
     margin-bottom: 32px !important;
 
     border-radius: 10px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
     box-shadow: 0 13px 29px rgba(0, 0, 0, .0758304);
 }
 
@@ -2079,7 +2078,7 @@ aside .search .submit_btn
 
     border: none;
     border-radius: 9px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
     box-shadow: 0 13px 29px rgba(0, 0, 0, .0758304);
 
     justify-content: center;
@@ -2180,7 +2179,7 @@ aside .cats label:after
 
     opacity: 0;
     border-radius: 5px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
 }
 
 aside .cats input:checked + label:before
@@ -2225,7 +2224,7 @@ aside .filter .submit_btn
 
     border: none;
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
     width: 100%;
 }
 
@@ -2473,7 +2472,7 @@ aside > *:last-child
 
 .main_slider .slide .info{
     width: 658px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
     opacity: 0.88;
 }
 
@@ -2628,7 +2627,7 @@ aside > *:last-child
     display: block;
     position: absolute;
     top: 0;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
     border-radius: 0 0 0 300px;
 }
 .main_slider3 .owl-stage-outer
@@ -2969,7 +2968,7 @@ color: #fff;
     text-align: center;
 
     border-radius: 31px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
 }
 
 
@@ -3597,7 +3596,7 @@ color: #fff;
     padding: 40px 100px 20px;
 
     border-radius: 100px 0;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
 
     justify-content: center;
     align-items: flex-start;
@@ -3721,8 +3720,8 @@ color: #fff;
     text-align: center;
 
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
+    
 
     align-items: center;
     justify-content: center;
@@ -5153,8 +5152,8 @@ color: #fff;
     letter-spacing: .31px;
 
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color3);
+    
 }
 
 .products .product:hover .name
@@ -5445,8 +5444,8 @@ color: #fff;
     text-align: center;
 
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
+    
 }
 
 .cart_info .cart_total .checkout_link
@@ -5527,8 +5526,8 @@ color: #fff;
     letter-spacing: -1.09455px;
 
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
+    
 }
 
 .checkout_info .form .submit
@@ -5739,8 +5738,7 @@ button:disabled
 
 .product_info .buy .price .val
 {
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0px 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
     border-radius: 12px;
     font-weight: 800;
     font-size: 28px;
@@ -5804,8 +5802,8 @@ button:disabled
     text-decoration: none;
     letter-spacing: .25px;
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
+    
     border: none;
 }
 
@@ -6284,7 +6282,7 @@ button:disabled
 
 .stock_finish .timer .item .val
 {
-    color: var(--main_color2);
+    color: var(--main_color3);
     font-size: 68px;
     font-weight: 900;
     line-height: 96px;
@@ -6538,7 +6536,7 @@ button:disabled
     transition: background .2s linear;
 
     border-radius: 50%;
-    background: var(--main_color2);
+    background: var(--main_color3);
 }
 
 .image_tips .image .btn:before
@@ -6762,14 +6760,14 @@ button:disabled
     width: 61px;
     height: 61px;
 
-    background: var(--main_color2);
+    background: var(--main_color3);
     box-shadow: 0 11px 35px rgba(0, 0, 0, .14);
 }
 
 .image_tips .image .item.active .btn span:before,
 .image_tips .image .item.active .btn span:after
 {
-    background: var(--main_color2);
+    background: var(--main_color3);
 }
 
 .three_photo .cont
@@ -7115,8 +7113,8 @@ button:disabled
 
     border: none;
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
+    
 }
 
 .quiz_poll .step .links svg
@@ -7169,8 +7167,8 @@ button:disabled
     margin: 0 auto 35px;
 
     border-radius: 28px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
+    
 
     align-items: center;
     justify-content: center;
@@ -7237,7 +7235,7 @@ button:disabled
 
     border-radius: 50%;
     background: var(--main_color1);
-    box-shadow: 0px 14px 30px var(--box-shadow-color);
+    box-shadow: 0px 14px 30px rgba(0, 0, 0, 0.3);
 
     justify-content: center;
     align-items: center;
@@ -7453,8 +7451,7 @@ button:disabled
 {
     color: #fff;
     text-decoration: none;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0px 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
     border-radius: 12px;
     border: none;
 }
@@ -7473,7 +7470,7 @@ footer
 
     flex: 0 0 auto;
 
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
 }
 
 footer .cont > * + *
@@ -7657,8 +7654,8 @@ footer .links a:hover
 
     border: none;
     border-radius: 12px;
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 0 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
+    
 }
 
 .file-uploader
@@ -7782,7 +7779,7 @@ footer .links a:hover
 
 #thanks .icon 
 {
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
+    background: var(--main_color2);
     box-shadow: 0px 25px 207px rgba(0, 0, 0, 0.05);
     border-radius: 28px;
     width: 122px;
@@ -7976,8 +7973,7 @@ footer .links a:hover
 
 
 .first_section2 .cont{
-    background: linear-gradient(to bottom, var(--main_color2), var(--main_color3));
-    box-shadow: 11px 10px 34px var(--box-shadow-color);
+    background: var(--main_color2);
     border-radius: 20.5px;
     max-width: 1440px;
 }

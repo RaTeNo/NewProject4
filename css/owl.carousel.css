@@ -311,14 +311,13 @@
     margin-left: -43px;
 }
 .owl-carousel .owl-nav button.owl-prev svg *{
-    fill:var(--main_color2);
+    fill:var(--main_color3);
 }
 .owl-carousel .owl-nav button.owl-next
 {
     right: 50%;
     margin-right: -105px;
-    background: linear-gradient(to right, var(--main_color2), var(--main_color3));
-    box-shadow: 0px 10px 15px var(--box-shadow-color);
+    background: var(--main_color2);
     border-radius: 12px;
     width: 94px;
 }
