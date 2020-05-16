@@ -1335,5 +1335,12 @@
         height: 95px;
     }
 
+    .product_info .image
+    {
+        width: 100%;
+        margin: 0;
+        padding-bottom: 100%;
+    }
+
 
 }

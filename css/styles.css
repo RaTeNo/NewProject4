@@ -4908,7 +4908,7 @@ color: #fff;
     color: #fff;
 
     position: absolute;
-    z-index: 100;
+    z-index: 98;
     top: 0;
     right: 0;
     bottom: 0;
@@ -8210,4 +8210,8 @@ aside .submit .reset i:after {
 .cart_empty .link.link_catalog {
     background: var(--main_color3);
     margin-left: 20px;
+}
+
+.price .price_title{
+    display: none;
 }

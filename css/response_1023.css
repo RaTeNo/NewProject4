@@ -604,8 +604,6 @@
 
     .product_info .buy .price
     {
-        font-size: 15px;
-        line-height: 19px;
     }
 
     .product_info .buy .price .val
@@ -620,22 +618,15 @@
         margin-left:auto;
     }
     .product_info .buy .btn{
-        margin: 0;
-        margin-right: 100px;
+
     }
     .product_info .buy .buy_link, .product_info .buy .order_link{
-        margin: 0px;
-        margin-top:20px;
+       
     }
 
     .product_info .buy .buy_link,
     .product_info .buy .order_link
-    {
-        font-size: 13px;
-        line-height: 50px;
-
-        width: 200px;
-        height: 50px;
+    {        
         margin-left: auto;
 
         letter-spacing: 0;

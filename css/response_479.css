@@ -303,9 +303,6 @@
 
     .product_info .image
     {
-        width: calc(100% - 140px);
-        padding-bottom: calc(100% - 140px);
-
         border-radius: 30px;
     }
 
@@ -330,8 +327,6 @@
         font-size: 14px;
 
         width: 100%;
-        margin-top: 20px;
-
         letter-spacing: 1px;
     }
 
@@ -869,17 +864,16 @@
 
     .product_info .buy .btn
     {
-        margin-left: auto;
+
     }
     
     .product_info .buy .buy_link, .product_info .buy .order_link{
-        margin: 0;
+      
     }
 
     .product_info .buy .price {
         font-size: 15px;
         line-height: 19px;
-        margin: 0 auto 20px;
         width: 100%;
     }
 
