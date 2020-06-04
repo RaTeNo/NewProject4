@@ -47,12 +47,15 @@
 			<?php 
 				$main_color2 ="#4d6dff";
     			$main_color3 ="#142e52";
-				$svg1 = '<svg width="846" height="575" viewBox="0 0 846 575" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 47C0 21.0426 21.0426 0 47 0L792.958 0C818.706 0 839.661 20.7165 839.955 46.4625L845.456 527.462C845.756 553.628 824.627 575 798.459 575H47C21.0426 575 0 553.957 0 528V47Z" fill="url(#paint0_linear)"/><mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="846" height="575"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 47C0 21.0426 21.0426 0 47 0L792.958 0C818.706 0 839.661 20.7165 839.955 46.4625L845.456 527.462C845.756 553.628 824.627 575 798.459 575H47C21.0426 575 0 553.957 0 528V47Z" fill="white"/></mask><g mask="url(#mask0)"><path opacity="0.0651042" d="M456 428C456 585.953 327.953 714 170 714C12.0466 714 -116 585.953 -116 428C-116 270.047 12.0466 142 170 142C327.953 142 456 270.047 456 428Z" stroke="white" stroke-width="92"/><path opacity="0.13365" d="M356 428C356 530.725 272.725 614 170 614C67.275 614 -16 530.725 -16 428C-16 325.275 67.275 242 170 242C272.725 242 356 325.275 356 428Z" stroke="white" stroke-width="72"/></g><defs><linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="575" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color3.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient></defs></svg>';
+				$svg1 = '<svg width="1440" height="575" viewBox="0 0 1440 575" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 41C0 18.3563 18.3563 0 41 0L1400 0C1422.64 0 1441 18.3563 1441 41V575H0V41Z" fill="'.$main_color3.'"/><mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1441" height="575"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 41C0 18.3563 18.3563 0 41 0L1400 0C1422.64 0 1441 18.3563 1441 41V575H0V41Z" fill="white"/></mask><g mask="url(#mask0)"><path opacity="0.0651042" d="M989 431.5C989 554.383 889.383 654 766.5 654C643.617 654 544 554.383 544 431.5C544 308.617 643.617 209 766.5 209C889.383 209 989 308.617 989 431.5Z" stroke="white" stroke-width="92"/><path opacity="0.13365" d="M910 431.5C910 510.753 845.753 575 766.5 575C687.247 575 623 510.753 623 431.5C623 352.247 687.247 288 766.5 288C845.753 288 910 352.247 910 431.5Z" stroke="white" stroke-width="72"/></g></svg>';
 
 				$svg2 = '<svg width="69" height="9" viewBox="0 0 69 9" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="29" height="9" rx="4.5" fill="url(#paint0_linear)"/><rect x="36" width="17" height="9" rx="4.5" fill="url(#paint1_linear)"/><rect x="60" width="9" height="9" rx="4.5" fill="url(#paint2_linear)"/><defs><linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="9" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color3.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient><linearGradient id="paint1_linear" x1="36" y1="0" x2="36" y2="9" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color3.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient><linearGradient id="paint2_linear" x1="60" y1="0" x2="60" y2="9" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color3.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient></defs></svg>';
 
-				$svg3 ='<svg width="723" height="1111" viewBox="0 0 723 1111" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 286.846C0 246.188 19.7742 208.07 53.013 184.656L212.395 72.3803C269.051 32.4697 347.362 46.2692 386.963 103.142L652.511 484.501C691.393 540.341 678.47 617.024 623.434 657.036L198.504 965.961C115.88 1026.03 0 967.007 0 864.856L0 286.846Z" fill="url(#paint0_linear)"/><path opacity="0.13365" d="M269.5 555C269.5 615.475 220.475 664.5 160 664.5C99.5248 664.5 50.5 615.475 50.5 555C50.5 494.525 99.5248 445.5 160 445.5C220.475 445.5 269.5 494.525 269.5 555Z" stroke="white" stroke-width="51"/><defs><linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="1110.27" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color3.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient></defs></svg>'
+				$svg3 ='<svg width="723" height="1111" viewBox="0 0 723 1111" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 286.846C0 246.188 19.7742 208.07 53.013 184.656L212.395 72.3803C269.051 32.4697 347.362 46.2692 386.963 103.142L652.511 484.501C691.393 540.341 678.47 617.024 623.434 657.036L198.504 965.961C115.88 1026.03 0 967.007 0 864.856L0 286.846Z" fill="url(#paint0_linear)"/><path opacity="0.13365" d="M269.5 555C269.5 615.475 220.475 664.5 160 664.5C99.5248 664.5 50.5 615.475 50.5 555C50.5 494.525 99.5248 445.5 160 445.5C220.475 445.5 269.5 494.525 269.5 555Z" stroke="white" stroke-width="51"/><defs><linearGradient id="paint0_linear" x1="0" y1="0" x2="0" y2="1110.27" gradientUnits="userSpaceOnUse"><stop stop-color="'.$main_color3.'"/><stop offset="1" stop-color="'.$main_color3.'"/></linearGradient></defs></svg>';
 
+				$svg4 ='<svg width="633" height="699" viewBox="0 0 633 699" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M633 235.304C633 191.223 609.782 150.401 571.896 127.869L449.022 54.7911C396.014 23.2655 327.935 35.113 288.693 82.6924L106.898 303.114C53.6206 367.711 77.68 465.401 154.863 497.869L459.532 626.029C541.918 660.686 633 600.188 633 510.809L633 235.304Z" fill="'.$main_color3.'"/><path opacity="0.13365" d="M363.5 432C363.5 492.475 412.525 541.5 473 541.5C533.475 541.5 582.5 492.475 582.5 432C582.5 371.525 533.475 322.5 473 322.5C412.525 322.5 363.5 371.525 363.5 432Z" stroke="white" stroke-width="51"/></svg>';
+
+				$svg5 ='<svg width="1376" height="555" viewBox="0 0 1376 555" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 41C0 18.3563 18.3563 0 41 0L1334.77 0C1357.5 0 1375.9 18.4958 1375.77 41.2284L1373.13 514.228C1373.01 536.783 1354.69 555 1332.14 555H41C18.3564 555 0 536.644 0 514V41Z" fill="'.$main_color3.'"/><mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1376" height="555"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 41C0 18.3563 18.3563 0 41 0L1334.77 0C1357.5 0 1375.9 18.4958 1375.77 41.2284L1373.13 514.228C1373.01 536.783 1354.69 555 1332.14 555H41C18.3564 555 0 536.644 0 514V41Z" fill="white"/></mask><g mask="url(#mask0)"><path opacity="0.0651042" d="M1292 365C1292 522.953 1163.95 651 1006 651C848.047 651 720 522.953 720 365C720 207.047 848.047 79 1006 79C1163.95 79 1292 207.047 1292 365Z" stroke="white" stroke-width="92"/><path opacity="0.13365" d="M1192 365C1192 467.725 1108.72 551 1006 551C903.275 551 820 467.725 820 365C820 262.275 903.275 179 1006 179C1108.72 179 1192 262.275 1192 365Z" stroke="white" stroke-width="72"/><path opacity="0.0651042" d="M511 425.5C511 545.07 414.07 642 294.5 642C174.93 642 78 545.07 78 425.5C78 305.93 174.93 209 294.5 209C414.07 209 511 305.93 511 425.5Z" stroke="white" stroke-width="70"/><path opacity="0.13365" d="M438 425.5C438 504.753 373.753 569 294.5 569C215.247 569 151 504.753 151 425.5C151 346.247 215.247 282 294.5 282C373.753 282 438 346.247 438 425.5Z" stroke="white" stroke-width="50"/></g></svg>'
 			?>
 			/*.first_section .info:after{
 				background-image: url('data:image/svg+xml;base64,<?php echo base64_encode($svg1); ?>') !important;
@@ -64,7 +67,17 @@
 			.upload .form:after, .before_after .item:after, .three_photo .photo:after
 			{
 				background-image: url('data:image/svg+xml;base64,<?php echo base64_encode($svg3); ?>') !important;
-			}*/
+			}
+
+			.socials_block .socials:after{
+				background-image: url('data:image/svg+xml;base64,<?php echo base64_encode($svg4); ?>') !important;
+			}
+
+			.first_section2 .cont:after{
+				background-image: url('data:image/svg+xml;base64,<?php echo base64_encode($svg5); ?>') !important;
+			}
+
+			*/
 
 		</style>
 	</head>
@@ -291,7 +304,7 @@
 						<div class="info">
 							<div class="title">Торговая сеть</div>
 				
-							<div class="desc">Магазины «у дома»​ для покупки товаров повседневного спроса. Выгодное расположение в непосредственной близости от жилых домов</div>
+							<div class="desc">Магазины «у дома»​ для покупки товаров повседневного спроса. Выгодное расположение в непосредственной близости от жилых домовМагазины «у дома»​ для покупки товаров повседневного спроса. Выгодное расположение в непосредственной близости от жилых домов</div>
 				
 							<a href="/" class="link">Подробнее
 								<svg width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1881,16 +1894,16 @@
 									<img src="images/ic_soc4.svg" alt="">
 								</a>
 
-								<a href="/" target="_blank" rel="noopener nofollow">
-									<img src="images/ic_soc4.svg" alt="">
+								<a href="" class="number" target="_blank" rel="noopener nofollow">
+									<img src="images/ic_phone.svg" alt="">
 								</a>
 
-								<a href="/" target="_blank" rel="noopener nofollow">
-									<img src="images/ic_soc4.svg" alt="">
+								<a href="/" class="number" target="_blank" rel="noopener nofollow">
+									<img src="images/ic_phone2.svg" alt="">
 								</a>
 
-								<a href="/" target="_blank" rel="noopener nofollow">
-									<img src="images/ic_soc4.svg" alt="">
+								<a href="/" class="number" target="_blank" rel="noopener nofollow">
+									<img src="images/ic_email.svg" alt="">
 								</a>
 							</div>
 						</div>
@@ -2033,7 +2046,7 @@
 									<div class="form">
 										<div class="agree">
 											<input type="checkbox" name="agree" id="quiz_poll_agree_check" checked>
-											<label for="quiz_poll_agree_check">Согласен с политикой обработки данных
+											<label for="quiz_poll_agree_check">Согласен с политикой <a href="">обработки данных</a>
 												<i><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16.9132 1.82809L15.3754 0.744931C14.9499 0.446366 14.367 0.560932 14.0822 0.998363L6.54409 12.5174L3.07992 8.92767C2.71809 8.55273 2.12844 8.55273 1.76661 8.92767L0.44996 10.292C0.0881317 10.667 0.0881317 11.278 0.44996 11.6564L5.77688 17.1764C6.07506 17.4854 6.54409 17.7214 6.96623 17.7214C7.38836 17.7214 7.81384 17.4472 8.08857 17.034L17.1611 3.16469C17.4492 2.72726 17.3386 2.12666 16.9132 1.82809Z" ></path></svg></i>
 											</label>
 										</div>
@@ -2276,8 +2289,6 @@
 									<div class="img"><img data-src="images/tmp/gallery_thumb.jpg" alt="" class="lozad loaded" src="images/tmp/gallery_thumb.jpg" data-loaded="true"></div>
 
 									<div class="info">
-										<div class="name">Название фотографии</div>
-
 										<div class="desc">Описание фотографии. Может быть несколько строчек. Вот так.</div>
 									</div>
 								</a>
@@ -2288,8 +2299,6 @@
 									<div class="img"><img data-src="images/tmp/gallery_thumb2.jpg" alt="" class="lozad loaded" src="images/tmp/gallery_thumb2.jpg" data-loaded="true"></div>
 
 									<div class="info">
-										<div class="name">Название фотографии</div>
-
 										<div class="desc">Описание фотографии. Может быть несколько строчек. Вот так.</div>
 									</div>
 								</a>
@@ -2301,8 +2310,6 @@
 									<div class="img"><img data-src="images/tmp/gallery_thumb.jpg" alt="" class="lozad loaded" src="images/tmp/gallery_thumb.jpg" data-loaded="true"></div>
 
 									<div class="info">
-										<div class="name">Название фотографии</div>
-
 										<div class="desc">Описание фотографии. Может быть несколько строчек. Вот так.</div>
 									</div>
 								</a>
@@ -2313,8 +2320,6 @@
 									<div class="img"><img data-src="images/tmp/gallery_thumb2.jpg" alt="" class="lozad loaded" src="images/tmp/gallery_thumb2.jpg" data-loaded="true"></div>
 
 									<div class="info">
-										<div class="name">Название фотографии</div>
-
 										<div class="desc">Описание фотографии. Может быть несколько строчек. Вот так.</div>
 									</div>
 								</a>
@@ -2325,8 +2330,6 @@
 									<div class="img"><img data-src="images/tmp/gallery_thumb.jpg" alt="" class="lozad loaded" src="images/tmp/gallery_thumb.jpg" data-loaded="true"></div>
 
 									<div class="info">
-										<div class="name">Название фотографии</div>
-
 										<div class="desc">Описание фотографии. Может быть несколько строчек. Вот так.</div>
 									</div>
 								</a>
@@ -2337,8 +2340,6 @@
 									<div class="img"><img data-src="images/tmp/gallery_thumb2.jpg" alt="" class="lozad loaded" src="images/tmp/gallery_thumb2.jpg" data-loaded="true"></div>
 
 									<div class="info">
-										<div class="name">Название фотографии</div>
-
 										<div class="desc">Описание фотографии. Может быть несколько строчек. Вот так.</div>
 									</div>
 								</a>
