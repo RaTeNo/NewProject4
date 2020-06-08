@@ -379,7 +379,7 @@
 
     .first_section2 .info
     {
-        padding-left: 100px;
+        padding-left: 50px;
     }
     .first_section .info
     {
@@ -421,9 +421,12 @@
 
     .main_slider .slide .cont
     {
-        min-height: 500px;
-        padding-top: 50px;
-        padding-bottom: 90px;
+    }
+    .main_slider .slide .info{
+        width: 100%;
+    }
+    .main_slider .info_inner{
+        width: 100%;
     }
 
     .main_slider .slide .title
@@ -465,7 +468,6 @@
 
     .main_slider2 .info .link
     {
-        margin-top: 55px;
     }
 
     .main_slider2 .img
@@ -478,8 +480,8 @@
     .main_slider3 .img
     {
         width: 400px;
-        height: 400px;
-        margin-left: 60px;
+        height: 460px;
+        margin-left: 40px;
     }
 
     .main_slider3 .img:before
@@ -512,7 +514,6 @@
 
     .main_slider3 .info .link
     {
-        margin-top: 40px;
     }
 
 
@@ -1173,7 +1174,6 @@
 
     .first_section2 .img.no_mask
     {
-        max-width: 400px;
     }
 
     /*---------------

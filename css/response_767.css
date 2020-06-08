@@ -524,6 +524,11 @@
     }
 
 
+    .first_section2 .info
+    {
+        padding: 0;
+        margin-top: 30px;
+    }
 
 
     .first_section .info
@@ -595,8 +600,13 @@
 
         margin-top: 25px;
     }
-
-
+    .main_slider .slide .img{
+        width: 280px;
+        height: 200px;
+    }
+    .main_slider .btns{
+        bottom:80px;
+    }
 
     .main_slider2 .info
     {
@@ -604,7 +614,6 @@
 
         width: 100%;
         max-width: 100%;
-        padding-bottom: 200px;
     }
 
     .main_slider2 .info .title
@@ -612,7 +621,8 @@
         font-size: 30px;
         line-height: 34px;
 
-        padding-right: 40px;
+        padding-right: 0px;
+        padding-bottom:0;
     }
 
     .main_slider2 .info .desc
@@ -622,13 +632,12 @@
 
     .main_slider2 .info .link
     {
-        margin-top: 30px;
     }
 
     .main_slider2 .img
     {
-        width: calc(100% - 40px);
-        margin: 40px 20px 0;
+        margin: 0 auto 40px;
+
 
         order: -1;
     }
@@ -661,7 +670,7 @@
         font-size: 26px;
         line-height: 30px;
 
-        padding-right: 40px;
+        padding-right: 0px;
     }
 
     .main_slider3 .info .title:after
@@ -1435,4 +1444,10 @@
     {
         margin-bottom: 0;
     }
+
+    .main_slider3:before {
+        height: 100%;
+        border-radius: 0;
+    }
+
 }
