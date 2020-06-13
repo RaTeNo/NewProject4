@@ -2544,10 +2544,10 @@ aside > *:last-child
     position: relative;
     width: 100%;
     max-width: 100%;
-       border-left: 18px solid #006DE0;
-    border-right: 18px solid #006DE0;
+       border-left: 18px solid var(--main_color3);
+    border-right: 18px solid var(--main_color3);
     box-sizing: border-box;
-    border-top: 18px solid #006DE0;
+    border-top: 18px solid var(--main_color3);
     border-radius: 49px 49px 0px 0px;
     height: 100%;
     object-fit: cover;

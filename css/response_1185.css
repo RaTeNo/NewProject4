@@ -1243,14 +1243,14 @@
     }
 
     /*new*/
-    .cart_link
+    .product_info  .cart_link
     {
         position: relative;
         right: 0 !important;
 
         margin-left: auto;
     }
-    .cart_link .count
+    .product_info  .cart_link .count
     {
         position: relative;
         top: -15px;
